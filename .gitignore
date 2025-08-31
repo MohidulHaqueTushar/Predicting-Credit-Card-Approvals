@@ -1,8 +1,6 @@
 # Data files
-/Data/
 
 # Notebooks
-/Notebooks/
 
 # Python
 __pycache__/
